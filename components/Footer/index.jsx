@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-
+import Logo from "../../public/images/logo/logo-2.png"
 const Footer = () => {
   return (
     <>
@@ -21,7 +21,7 @@ const Footer = () => {
                     height={30}
                   />
                   <Image
-                    src="images/logo/logo.svg"
+                    src={Logo}
                     alt="logo"
                     className="hidden w-full dark:block"
                     width={140}
