@@ -26,7 +26,7 @@ const testimonialData = [
     designation: "Designer",
     content:
       "Designer . . .",
-    image: "/images/testimonials/auth-03.png",
+    image: "/images/testimonials/jenny.jpg",
     star: 5,
   },
 ];
