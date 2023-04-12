@@ -8,7 +8,7 @@ const testimonialData = [
     designation: "Developer",
     content:
       "Works on the frontend of the project..",
-    image: "/images/testimonials/auth-01.png",
+    image: "/images/testimonials/scott.png",
     star: 5,
   },
   {
@@ -17,12 +17,12 @@ const testimonialData = [
     designation: "Developer",
     content:
       "Works on the project's backend side..",
-    image: "/images/testimonials/auth-02.png",
+    image: "/images/testimonials/joan.jpg",
     star: 5,
   },
   {
     id: 3,
-    name: "Mba Makam",
+    name: "Mbah Makam",
     designation: "Designer",
     content:
       "Designer . . .",
