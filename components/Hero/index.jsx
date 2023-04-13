@@ -29,7 +29,7 @@ const Hero = () => {
                 </p>
                 <div className="flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
                   <Link
-                    href=""
+                    href="https://drive.google.com/file/d/1qpuom__jwXbjjrDmL0ev2hVen7LPlYv9/view?usp=sharing"
                     className="rounded-md bg-primary py-4 px-8 text-base font-semibold text-white duration-300 ease-in-out hover:bg-primary/80"
                   >
                     Download Now
